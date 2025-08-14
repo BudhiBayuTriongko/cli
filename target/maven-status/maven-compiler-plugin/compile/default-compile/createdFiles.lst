@@ -1,0 +1,6 @@
+com\example\cli\Main$CarListWrapper.class
+com\example\cli\Car.class
+com\example\cli\Parser.class
+com\example\cli\CsvParser.class
+com\example\cli\Main.class
+com\example\cli\XmlParser.class
